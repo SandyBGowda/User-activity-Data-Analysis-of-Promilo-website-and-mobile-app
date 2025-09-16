@@ -13,8 +13,8 @@ As part of the business analyst interview process at Promilo, I was given an ass
 - < a href="https://github.com/SandyBGowda/User-activity-Data-Analysis-of-Promilo-website-and-mobile-app/blob/main/Promilo%20BA%20Assign.%20By%20P%20B%20SANDEEP.pbix">Power Bi dashboard(pbix file) </a>
 
 ## Report, Overview and Recommendations:
-- < a href="https://github.com/SandyBGowda/User-activity-Data-Analysis-of-Promilo-website-and-mobile-app/blob/0156be24f78a719dc3026798e0231de29322f2b2/Promilo%20BA%20assign%20report%20by%20P%20B%20Sandeep.pdf">Report(pdf file)</a>
-- < a href="https://github.com/SandyBGowda/User-activity-Data-Analysis-of-Promilo-website-and-mobile-app/blob/0156be24f78a719dc3026798e0231de29322f2b2/Promilo%20BA%20assign.%20report%20By%20P%20B%20SANDEEP.docx"> Report(Docx file)</a>
+- < a href="https://github.com/SandyBGowda/User-activity-Data-Analysis-of-Promilo-website-and-mobile-app/blob/0156be24f78a719dc3026798e0231de29322f2b2/Promilo%20BA%20assign%20report%20by%20P%20B%20Sandeep.pdf">Report in pdf file</a>
+- < a href="https://github.com/SandyBGowda/User-activity-Data-Analysis-of-Promilo-website-and-mobile-app/blob/0156be24f78a719dc3026798e0231de29322f2b2/Promilo%20BA%20assign.%20report%20By%20P%20B%20SANDEEP.docx"> Report in Docx file</a>
 [Promilo BA assign report by P B Sandeep.pdf](https://github.com/user-attachments/files/22371238/Promilo.BA.assign.report.by.P.B.Sandeep.pdf)
 
 
