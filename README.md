@@ -13,5 +13,7 @@ As part of the business analyst interview process at Promilo, I was given an ass
 - <a href="https://github.com/SandyBGowda/User-activity-Data-Analysis-of-Promilo-website-and-mobile-app/blob/main/Promilo%20BA%20Assign.%20By%20P%20B%20SANDEEP.pbix">Dashboard in pbix</a>
 
 ## Report, Overview and Recommendations:
+- <a href="https://github.com/SandyBGowda/User-activity-Data-Analysis-of-Promilo-website-and-mobile-app/blob/main/Promilo%20BA%20assign%20report%20by%20P%20B%20Sandeep.pdf">Report in PDF</a>
+
 
 
