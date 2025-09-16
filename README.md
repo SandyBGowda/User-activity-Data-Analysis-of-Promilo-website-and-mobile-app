@@ -1,0 +1,2 @@
+# User-activity-Data-Analysis-of-Promilo-website-and-mobile-app
+I worked on the organization’s data by analyzing patterns and trends, and provided actionable recommendations to enhance user activity and engagement.      About Company: Promilo(Sawara Solutions Pvt Ltd) is India’s 1st “Pay to Browse” B2B SaaS start-up, recognized by Start-up India, MSME, and among the Top 100 Google App-Scale Academy start-ups.
